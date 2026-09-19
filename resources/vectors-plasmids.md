@@ -12,7 +12,7 @@ Shared reagents and plasmids.
 
 <div class="resource-card-grid">
 
-  <a class="resource-card" href="http://ghi.lab.txfc.bcm.edu/dashboard" target="_blank" rel="noopener">
+  <a class="resource-card" href="http://ghilab.lab.tcfx.bcm.edu/dashboard" target="_blank" rel="noopener">
     <div class="resource-card-title">Plasmid inventory</div>
     <div class="resource-card-desc">
       Plasmid inventory and corresponding maps are available through the GHI Dashboard Metabase.
